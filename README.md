@@ -1,8 +1,12 @@
 # ActivityLivecycle
 
 <h1> Gambar </h1> <br>
-![1](https://cloud.githubusercontent.com/assets/22056134/22574029/cd43413e-e9de-11e6-96f7-18fea5357848.JPG)
-![2](https://cloud.githubusercontent.com/assets/22056134/22574030/cd46c39a-e9de-11e6-9f75-6d488a7626c8.png)
+
+<p>
+<img src = "https://cloud.githubusercontent.com/assets/22056134/22574029/cd43413e-e9de-11e6-96f7-18fea5357848.JPG"/>
+<br> <br> <br>
+<img src = "https://cloud.githubusercontent.com/assets/22056134/22574030/cd46c39a-e9de-11e6-9f75-6d488a7626c8.png"/>
+</p>
 
 <h1> IDENTITAS </h1>
 <br>
